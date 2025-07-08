@@ -1,2 +1,2 @@
 # EliteEats
-AI Powered Food Ordering Platform
+Food Ordering Platform
